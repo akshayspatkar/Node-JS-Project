@@ -1,5 +1,5 @@
 {
-  "name": "email-scheduler",
+  "name": "Email Scheduler",
   "version": "1.0.0",
   "main": "Schedule Mail.js",
   "scripts": {
